@@ -1,0 +1,6 @@
+
+echo "node_modules" >> .dockerignore
+echo ".git" >> .dockerignore
+echo ".gitignore" >> .dockerignore
+echo "Dockerfile" >> .dockerignore
+echo "docker-compose.yml" >> .dockerignore
